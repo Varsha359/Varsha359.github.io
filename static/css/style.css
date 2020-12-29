@@ -2,3 +2,59 @@
 	font-family: 'Langar', cursive;
 }
 
+.container h3{
+	font-family: 'Langar', cursive;
+}
+
+#footer{
+	font-family:cursive;
+	font-size: large;
+}
+
+#contact{
+	font-family: sans-serif;
+	font-size: larger;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.slides{
+	padding: 20px;
+}
+
+#color{
+  background-color: #ffffff;
+}
+
+#heading_slides{
+  font-family: 'Courier New', Courier, monospace;
+  
+  color: black;
+}
+
+body{
+  margin: 0;
+  background-image: url("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.jotform.com%2Fblog%2F80-stunning-background-patterns-for-your-websites%2F&psig=AOvVaw0G81MKbHNceG2wAY7ryQRq&ust=1609347211268000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDg0tzT8-0CFQAAAAAdAAAAABAK");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
